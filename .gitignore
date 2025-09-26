@@ -2,7 +2,17 @@
 __pycache__/
 *.py[codz]
 *$py.class
+# Virtual Environment
+venv/
 
+# Python cache
+__pycache__/
+
+# Database file
+db.sqlite3
+
+# Secret files
+.env
 # C extensions
 *.so
 
